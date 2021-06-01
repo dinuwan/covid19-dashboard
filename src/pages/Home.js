@@ -44,6 +44,7 @@ export default function FullWidthGrid() {
     }
 
     fetchData()
+    // eslint-disable-next-line
   }, [selectedCountry])
 
   return (
